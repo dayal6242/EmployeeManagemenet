@@ -14,3 +14,4 @@ router(app);
 
 app.listen(7000);
 console.log("Producthub service listening on port 7000");
+console.log("Hello From Gondia");
